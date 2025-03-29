@@ -1,7 +1,9 @@
  #include <iostream>
 using namespace std;
 struct Estudiante{
-	int *codigo;
+	/*
+ programa 1
+ 	int *codigo;
 	string *nombre;
 	int **notas;
 
@@ -66,7 +68,7 @@ main() {
 
 
 
-/*
+programa 2
 using namespace std;
 struct estudiante{
 	int codigo[4];
